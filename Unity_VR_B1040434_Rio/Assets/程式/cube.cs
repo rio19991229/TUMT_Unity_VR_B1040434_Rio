@@ -9,6 +9,7 @@ public class cube : MonoBehaviour
         if (other.tag == "方體")
         {
             havecu = true;
+            print("方體");
         }
     }
 }

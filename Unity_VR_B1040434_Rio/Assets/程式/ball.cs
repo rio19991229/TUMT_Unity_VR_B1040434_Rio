@@ -9,6 +9,7 @@ public class ball : MonoBehaviour
         if (other.tag == "球體")
         {
             haveba = true;
+            print("球體");
         }
     }
 }

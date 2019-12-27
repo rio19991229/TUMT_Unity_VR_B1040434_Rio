@@ -2,16 +2,13 @@
 
 public class door : MonoBehaviour
 {
-    public GameObject obj;
-
-    private void Start()
+    private void Update()
     {
-        obj = GetComponent<GameObject>();
-
         if (ball.haveba && cube.havecu && cy.havecy && ca.haveca)
         {
-            Destroy(obj);
+            Destroy(gameObject);
             print("摧毀");
         }
     }
+
 }

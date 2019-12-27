@@ -9,6 +9,8 @@ TagManager:
   - "\u5713\u67F1\u9AD4"
   - "\u81A0\u56CA\u9AD4"
   - "\u5927\u9580"
+  - projectile
+  - "\u73A9\u5BB6"
   layers:
   - Default
   - TransparentFX

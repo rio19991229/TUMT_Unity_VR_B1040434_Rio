@@ -9,6 +9,7 @@ public class ca : MonoBehaviour
         if (other.tag == "膠囊體")
         {
             haveca = true;
+            print("膠囊");
         }
     }
 }
