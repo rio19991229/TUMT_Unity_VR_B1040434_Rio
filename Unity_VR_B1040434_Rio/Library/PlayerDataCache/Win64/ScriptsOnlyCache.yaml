@@ -107,95 +107,95 @@ ScriptsOnlyBuild:
     - Class: 111
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 9776}
+      Script: {instanceID: 9778}
     - Class: 114
-      Script: {instanceID: 9794}
+      Script: {instanceID: 9796}
     - Class: 114
-      Script: {instanceID: 9824}
+      Script: {instanceID: 9826}
     - Class: 114
-      Script: {instanceID: 9872}
+      Script: {instanceID: 9874}
     - Class: 114
-      Script: {instanceID: 9932}
+      Script: {instanceID: 9934}
     - Class: 114
-      Script: {instanceID: 9948}
+      Script: {instanceID: 9950}
     - Class: 114
-      Script: {instanceID: 9964}
+      Script: {instanceID: 9966}
     - Class: 114
-      Script: {instanceID: 9994}
+      Script: {instanceID: 9996}
     - Class: 114
-      Script: {instanceID: 10036}
+      Script: {instanceID: 10038}
     - Class: 114
-      Script: {instanceID: 10046}
+      Script: {instanceID: 10048}
     - Class: 114
-      Script: {instanceID: 10108}
+      Script: {instanceID: 10110}
     - Class: 114
-      Script: {instanceID: 10118}
+      Script: {instanceID: 10120}
     - Class: 114
-      Script: {instanceID: 10160}
+      Script: {instanceID: 10162}
     - Class: 114
-      Script: {instanceID: 10176}
+      Script: {instanceID: 10178}
     - Class: 114
-      Script: {instanceID: 10208}
+      Script: {instanceID: 10210}
     - Class: 114
-      Script: {instanceID: 10422}
+      Script: {instanceID: 10424}
     - Class: 114
-      Script: {instanceID: 10478}
+      Script: {instanceID: 10480}
     - Class: 114
-      Script: {instanceID: 10494}
+      Script: {instanceID: 10496}
     - Class: 114
-      Script: {instanceID: 10528}
+      Script: {instanceID: 10530}
     - Class: 114
-      Script: {instanceID: 10532}
+      Script: {instanceID: 10534}
     - Class: 114
-      Script: {instanceID: 10548}
+      Script: {instanceID: 10550}
     - Class: 114
-      Script: {instanceID: 10692}
+      Script: {instanceID: 10694}
     - Class: 114
-      Script: {instanceID: 10776}
+      Script: {instanceID: 10778}
     - Class: 114
-      Script: {instanceID: 10796}
+      Script: {instanceID: 10798}
     - Class: 114
-      Script: {instanceID: 10826}
+      Script: {instanceID: 10828}
     - Class: 114
-      Script: {instanceID: 10934}
+      Script: {instanceID: 10936}
     - Class: 114
-      Script: {instanceID: 10974}
+      Script: {instanceID: 10976}
     - Class: 114
-      Script: {instanceID: 11084}
+      Script: {instanceID: 11086}
     - Class: 114
-      Script: {instanceID: 11134}
+      Script: {instanceID: 11136}
     - Class: 114
-      Script: {instanceID: 11198}
+      Script: {instanceID: 11200}
     - Class: 114
-      Script: {instanceID: 11336}
+      Script: {instanceID: 11338}
     - Class: 114
-      Script: {instanceID: 11340}
-    - Class: 114
-      Script: {instanceID: 11434}
+      Script: {instanceID: 11342}
     - Class: 114
       Script: {instanceID: 11436}
     - Class: 114
-      Script: {instanceID: 11454}
+      Script: {instanceID: 11438}
     - Class: 114
-      Script: {instanceID: 11476}
+      Script: {instanceID: 11456}
     - Class: 114
-      Script: {instanceID: 11512}
+      Script: {instanceID: 11478}
     - Class: 114
-      Script: {instanceID: 11654}
+      Script: {instanceID: 11514}
     - Class: 114
-      Script: {instanceID: 11668}
+      Script: {instanceID: 11656}
     - Class: 114
-      Script: {instanceID: 11770}
+      Script: {instanceID: 11670}
     - Class: 114
-      Script: {instanceID: 11822}
+      Script: {instanceID: 11772}
     - Class: 114
-      Script: {instanceID: 12038}
+      Script: {instanceID: 11824}
     - Class: 114
-      Script: {instanceID: 12056}
+      Script: {instanceID: 12040}
     - Class: 114
-      Script: {instanceID: 12118}
+      Script: {instanceID: 12058}
     - Class: 114
-      Script: {instanceID: 12148}
+      Script: {instanceID: 12120}
+    - Class: 114
+      Script: {instanceID: 12150}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 120
@@ -1546,4 +1546,4 @@ ScriptsOnlyBuild:
   platform: 19
   scenePathNames:
   - "Assets/VR\u5834\u666F.unity"
-  playerPath: C:/Users/User/Desktop/TUMT_Unity_VR_B1040434_Rio/Unity_VRGAME_B1040434_Rio/Unity_VR_B1040434_Rio.exe
+  playerPath: C:/Users/User/Desktop/TUMT_Unity_VR_B1040434_Rio/EXE/Unity_VR_B1040434_Rio.exe
